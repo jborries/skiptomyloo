@@ -4,6 +4,12 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+ .carousel.slide img {
+     width:100%;
+     height:auto;
+ }
+
+
 html,
 body {
     height: 100%;
